@@ -1,7 +1,7 @@
 /*  your css code here. If applicable */
 
 body {
-	font-familys:Arial, sans-serif;
+	font-family:Arial, sans-serif;
 	margin:20px;
 }
 
@@ -9,16 +9,16 @@ h1 {
 	text-align:center;
 }
 
-#bands {
+#band {
 	/* list-style-type:none; */
 	padding:0;
 }
 
-#bands li{
+#band li{
 	padding:8px;
 	border-bottom: 1px solid #ddd;
 }
 
-#bands li:hover {
+#band li:hover {
 	background-color:#f0f0f0;
 }
