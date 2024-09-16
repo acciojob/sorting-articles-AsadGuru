@@ -40,7 +40,7 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 
     // Get the list element
-    const list = document.getElementById('band');
+    const list = document.getElementById('bands');
 
     // Populate the list with sorted items
     sortedBands.forEach(band => {
